@@ -9,4 +9,7 @@
 - We recommend using [Eclipse IDE for Java EE Developers](http://www.eclipse.org/downloads/) with
   [ADT Plugin](http://developer.android.com/sdk/index.html).
 
-Create a Android Application Project fiscalcidadao-web:
+```
+Create a Android Application Project.
+Synchronize your project sources with Github repository.
+```
