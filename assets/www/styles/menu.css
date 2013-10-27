@@ -1,0 +1,53 @@
+div#menu {
+	float: left;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#image {
+	float: left;
+	width: 100%;
+	text-align: center;
+	background-color: #fff;
+}
+
+div.option {
+	display: block;
+	background-color: #f77905;
+	color: #fff;
+	font-weight: bold;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	height: 50px;
+	border-bottom: 1px solid #ca0000; 
+}
+
+div#icon {
+	float: left;
+	display: block;
+	background-color: #f79000;
+	background-image: url(../images/icon-info.png);
+	width: 50px;
+	height: 50px;
+}
+
+div#text {
+	float: left;
+	display: block;
+	height: 50px;
+}
+
+div#text p.title {
+	display: block;
+	font-size: 20px;
+	margin: 0 0 0 5px;
+}
+
+div#text p.description {
+	display: block;
+	margin: 8px 0 0 5px;
+	font-weight: normal;
+}

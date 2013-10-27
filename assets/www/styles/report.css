@@ -1,0 +1,93 @@
+div#report {
+	float: left;
+	width: 100%;
+	display: none;
+}
+
+div#form {
+	float: left;
+	display: block;
+	margin: 30px;
+	width: 100%;
+}
+
+select#facts {
+	margin-top: 20px;
+	border: none;
+	display: block;
+	cursor: pointer;
+	background-color: #f77905;
+	width: 300px;
+	color: #fff;
+	height: 40px;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+input#routes {
+	margin-top: 20px;
+	border: none;
+	background-color: #f77905;
+	width: 300px;
+	color: #fff;
+	height: 40px;
+	font-size: 16px;
+	font-weight: normal;
+	display: none;
+}
+
+button#capturePhoto {
+	margin-top: 20px;
+	border: none;
+	background-color: #ca0000;
+	width: 300px;
+	color: #fff;
+	height: 40px;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+button#removePhoto {
+	border: none;
+	background-color: #666;
+	width: 300px;
+	color: #fff;
+	height: 40px;
+	font-size: 16px;
+	font-weight: normal;
+	display: none;
+}
+
+img#smallImage {
+	display:none;
+	margin: 20px auto 0 auto;
+}
+
+textarea#description {
+	margin-top: 20px;
+	border: none;
+	background-color: #f77905;
+	width: 300px;
+	color: #fff;
+	height: 80px;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+div#buttons {
+	float: left;
+	display: block;
+	height: 50px; 
+    width:100%;
+    text-align: center;
+}
+
+button.submitButton {
+	border: none;
+	background-color: #ca0000;
+	color: #fff;
+	width: 100px;
+	height: 35px;
+	font-size: 14px;
+	font-weight: bold;
+}
