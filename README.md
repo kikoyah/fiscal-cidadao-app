@@ -3,8 +3,8 @@
 * Java SDK 1.6
 * [Phonegap 2.9.0](http://phonegap.com)
 * Android SDK
-* [JQuery 1.10.2]
-* [JQuery UI 1.10.3
+* [JQuery 1.10.2](http://jquery.com/)
+* [JQuery UI 1.10.3](http://jqueryui.com/)
 
 ## Installing Project
 
